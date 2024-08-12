@@ -68,7 +68,7 @@ nav ul li a:hover {
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    background-image: url('../mod-18-hw/images/jenny-hero2.jpg');
+    background-image: url('./mod-18-hw/images/jenny-hero2.jpg');
     background-size: cover;
     background-position: center right;
     height: 500px;
