@@ -68,7 +68,7 @@ nav ul li a:hover {
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    background-image: url('../UX_UI_HW_18/images/jenny-hero2.jpg');
+    background-image: url('../mod-18-hw/images/jenny-hero2.jpg');
     background-size: cover;
     background-position: center right;
     height: 500px;
@@ -184,22 +184,22 @@ nav ul li a:hover {
 
 #wheelwise {
     grid-area: wheelwise;
-    background-image: url("../UX_UI_HW_18/images/WheelWise-iPhone.jpg");
+    background-image: url("../mod-18-hw/images/wheelwise.jpg");
 }
 
 #weather {
     grid-area: weather;
-    background-image: url("../UX_UI_HW_18/images/NWS-Laptop-Mobile.jpg");
+    background-image: url("../mod-18-hw/images/weather-laptop-mobile");
 }
 
 #beasties {
     grid-area: beasties;
-    background-image: url("../UX_UI_HW_18/images/W3B-Mobile-2-screens.jpg");
+    background-image: url("../mod-18-hw/images/beasties-mobile.jpg");
 }
 
 #travel {
     grid-area: travel;
-    background-image: url("../UX_UI_HW_18/images/Travel-App.jpg");
+    background-image: url("../mod-18-hw/images/travel-app.jpg");
 }
 
 .workGridArea {
